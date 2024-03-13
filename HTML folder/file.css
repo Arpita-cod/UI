@@ -1,0 +1,25 @@
+.body
+{
+    border: 2px solid black;
+    height: 200px;
+}
+.maindiv
+{
+    border:2px solid red;
+    width: 98%;
+    height: 100px;
+    margin-left:15px ;
+    margin-top: 7px;
+}
+.logo
+{
+    border: 2px solid greenyellow;
+    width: 800px;
+    height: 95.5px;
+}
+.menu
+{
+    border: 2px solid blue;
+    width: 400px;
+    margin-top: 0px;
+}

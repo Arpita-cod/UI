@@ -1,0 +1,55 @@
+        body
+        {
+            background-color: black;
+        }
+        .heading
+        {
+            color: rgb(255, 255, 255);
+            border: 2px solid yellow;
+            margin: 0px 100px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+            
+        }
+        .para 
+        {
+            text-align: center;
+            margin-top: 35px;
+            border: 1.5px solid rgb(0, 0, 0);
+            text-rendering: optimizeSpeed;
+            word-spacing: 110px;
+            font-size: larger;
+            text-decoration:solid;
+        }
+        .para a
+        {
+            text-decoration:none;
+            color: aliceblue;
+        }
+        .para a:hover
+        {
+            color: aqua;
+        }
+        
+        .boxy
+        {
+            
+            margin: 70px 0px;
+            border: 2px solid rgb(255, 215, 107);
+            background-color: rgb(195, 194, 194);
+            margin: autos;
+            color: rgb(0, 0, 0);
+        }
+        .form
+        {
+            padding: 3px;
+            background-color: rgb(246, 242, 242);
+            border: 3px solid red;
+            margin: 0px 20px 10px 1270px;
+        }
+        .paragraph
+        {
+            margin: 10px 600px 10px 10px;
+            border: 3px solid rgb(255, 159, 34) ;
+            padding: 5px;
+        }
